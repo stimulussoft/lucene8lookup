@@ -2,10 +2,6 @@
 
 Test speed of Lucene 8 vs Lucene 4 lookups
 
-# lucene4lookup
-
-Test Speed of Lucene 4 vs Lucene 8 lookups. 
-
 Lucene 8
 
 1000000 docs
